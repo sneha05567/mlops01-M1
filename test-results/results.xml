@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testsuites>
+  <testsuite name="pytest" errors="0" failures="0" skipped="0" tests="1" time="10.084" timestamp="2025-01-07T14:12:27.396625+05:30">
+    <testcase classname="tests.test_train.TestModel" name="test_accuracy" time="0.095" />
+  </testsuite>
+</testsuites>
